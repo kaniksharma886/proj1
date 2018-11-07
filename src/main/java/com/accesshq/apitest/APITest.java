@@ -9,6 +9,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.ExtractableResponse;
 import io.restassured.response.ValidatableResponse;
 import java.util.ArrayList;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -18,6 +19,7 @@ public class APITest
 {
     public static void main(String[] args) 
     {
+        JOptionPane.showMessageDialog(null, "test");
         System.out.println("Test111222333.................");
 /*        System.out.println(URI);
         ArrayList<String> res = RestAssured.
