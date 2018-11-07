@@ -18,7 +18,7 @@ public class APITest
 {
     public static void main(String[] args) 
     {
-        System.out.println("Test111222333.");
+        System.out.println("Test111222333.................");
 /*        System.out.println(URI);
         ArrayList<String> res = RestAssured.
                 given().
